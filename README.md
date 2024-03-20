@@ -7,4 +7,6 @@ cd server   ---- open different cmd terminal
 cd client   ---- open different cmd terminal 
 
 to run the app 
+
+
   npm start
